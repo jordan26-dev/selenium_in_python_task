@@ -49,7 +49,6 @@ c2.value = "Description"
 c3 = sheet.cell(row=1, column=3)
 c3.value = "Price"
 
-max_col = sheet.max_column
 
 
 # Writes the data into the Workbook 
